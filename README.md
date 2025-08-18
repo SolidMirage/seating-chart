@@ -1,4 +1,7 @@
 # Interactive Wedding Seating Chart
+<img src="./images/black_seatingchart_unlit.jpg" width="500">
+<img src="./images/black_seatingchart_lit.jpg" width="500">
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Parts List](#parts-list)
